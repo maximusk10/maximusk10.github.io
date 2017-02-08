@@ -1,0 +1,19 @@
+{
+  "name": "github_page",
+  "version": "1.0.0",
+  "description": "tutorial de uso de GIT creando una Github Page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "maximusk10.github.io"
+  },
+  "keywords": [
+    "git",
+    "boilerplate"
+  ],
+  "author": "dario pastrana",
+  "license": "ISC"
+}
